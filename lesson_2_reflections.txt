@@ -28,3 +28,5 @@ Answer: One of the branches cease to exist.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Answer: If the change has no conflicts, automatic merging makes life easier.

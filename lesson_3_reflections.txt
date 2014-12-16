@@ -11,7 +11,7 @@ Answer: There might be conflicts we should deal with.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Answer: Fork - GitHub to GitHub; branch - same repo; clone - GitHub to local.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?

@@ -16,7 +16,7 @@ Answer: Fork - GitHub to GitHub; branch - same repo; clone - GitHub to local.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+Answer: Knowing if we're ahead, out of sync etc.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?

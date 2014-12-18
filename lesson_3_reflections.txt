@@ -26,4 +26,4 @@ Answer: Sending files. Gentle learning curve, but harder to keep track of change
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Answer: When you don't have access to the master branch (contributing).
